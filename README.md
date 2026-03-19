@@ -1,2 +1,2 @@
-# ProspectiveRisk
-Repositorio destinado como repositorio del curso de Prospectiva y Analítica del Riesgo correspondiente a la Maestría en Administración de riesgos de la Universidad EAFIT
+# Finca Atarcederes
+En este repositorio se puede encontrar el perfil de riesgo espacial sobre la finca Atardeceres S.A.S., así como los perfiles de captura de gases de efecto invernadero como resultado de una gestión prospectiva de riesgos climáticos y sanitarios en campo. 
